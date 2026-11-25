@@ -1,0 +1,11 @@
+# SLIDE BRIEF
+- Topic and section:
+- Audience and purpose:
+- Key message / so-what:
+- Facts, data and sources (values, units, periods, sources):
+- Output mode: IMAGE / BLUEPRINT / PPTX
+- Visuals I want (optional; default choose for me):
+- Brand and style (optional; default original palette):
+- Runner sections (optional; default Introduction, Analysis, Solution, Implementation, Impact):
+- Appendix reference (optional; NONE if unavailable):
+- Extra instructions (optional):

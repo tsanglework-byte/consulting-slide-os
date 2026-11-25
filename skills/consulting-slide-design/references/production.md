@@ -1,0 +1,7 @@
+# Production modes
+- PPTX: trusted native slide tool or authorised installed ppt-master. Produce exactly one editable 16:9 slide; use native text, shapes, charts and tables; inspect chart data and editable components. Native PowerPoint is not native think-cell. Do not claim proprietary object creation without verified capability.
+- IMAGE: if requested and available, render exactly one high-resolution 16:9 slide. Inspect all values, labels and legibility; do not claim editability. If exact figures cannot be reliably rendered, disclose and supply blueprint/build sheet rather than silently misrepresenting them.
+- BLUEPRINT: one-sentence Layout Choice; zone-by-zone layout with exact English copy, dimensions, styling and visual specifications; Speaker Notes 40–60 words.
+- All modes: deliver Build Sheet with each visual, verified Library name/path or explicitly unverified candidate, datasheet for charts, annotations and series colours. Appendix Note includes formula, inputs, source and every assumption; list Data to confirm; Quality Check. No backup slide generated unless separately requested.
+- If requested output is unsupported, clearly identify limitation and offer a labelled closest fallback, not a false file claim.
+- Read installed ppt-master instructions if authorised. No upstream code bundled; no auto-installation. Official upstream: https://github.com/hugohe3/ppt-master/blob/main/README.md.

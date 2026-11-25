@@ -1,0 +1,15 @@
+# Local and sensitive data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.venv/
+output/
+private-data/
+.claude/settings.local.json
+# Generated install copies; source lives in skills/
+.claude/skills/
+.agents/skills/
+dist/
