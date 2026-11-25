@@ -1,4 +1,8 @@
 # Changelog
+## 0.2.1
+- Add standalone financial-modelling skill and preserve the original user-supplied Excel modelling prompt v2.
+- Document task routing for Claude Code and Codex; existing slide skills are unchanged.
+- No live financial workbook or cross-platform execution test in this release.
 ## 0.2.0
 - Replace V5.0 with the exact uploaded Universal Consulting Slide Prompt v2, visual-first.
 - Align all four skills, brief, build sheet, output modes, quality gate and evaluation cases with v2.
