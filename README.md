@@ -10,8 +10,3 @@ Bộ quy trình tạo đúng một slide Business Case theo **Universal Consulti
 Không bịa số liệu để đạt mật độ visual, không giả lập tên Library đã xác minh, không tuyên bố kiểm tra chưa chạy. Build Sheet, Appendix Note và Quality Check là tài liệu ngoài slide. Private repo được khuyến nghị. Không chứa dữ liệu nội bộ, mã nguồn ppt-master, license think-cell hoặc engine tạo slide độc lập.
 ## Version 0.2.0
 Kiểm tra cấu trúc, đóng gói, cài bản sao local và hash prompt; chưa kiểm thử việc sinh slide thực tế trên các nền tảng.
-
-## Additional skill: Financial Modelling
-- [Financial Modelling Skill](skills/financial-modelling/SKILL.md) handles Excel financial models independently of slide design.
-- [Original Excel financial modelling prompt v2](skills/financial-modelling/references/Prompt_Xay_Mo_Hinh_Tai_Chinh_Excel_v2.md) is its canonical source. The slide prompt remains unchanged.
-- To package all skills, run `python scripts/manage_skills.py package` and use `dist/financial-modelling.zip` for the financial skill. To install all locally, use the existing `install --agent claude --all` or `install --agent codex --all` option. Existing installed copies require review before replacement.
